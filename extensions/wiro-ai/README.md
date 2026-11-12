@@ -21,4 +21,4 @@ Model lists, settings and prices come from the live Wiro AI catalog. The forms s
 
 ## Pricing
 
-Searching models is free. Model runs and chat messages are charged to your Wiro AI project's wallet at each model's price, and tasks that fail or that you cancel are not charged.
+Searching models is free. Model runs and chat messages are charged to your Wiro AI project's wallet at each model's price. Failed tasks are not charged.
